@@ -21,8 +21,10 @@
 
     ![开发管理](assets/images/info1.jpg)
 3. 进入**用户身份**页面添加紫荆云账号。
+
     ![开发管理](assets/images/info2.jpg)
 4. 点击**添加成员**。
+
     ![开发管理](assets/images/info3.jpg)
 
 5. 添加紫荆云研发账号 **"focusdev"** 并赋予所有权限。
