@@ -18,8 +18,9 @@
 1. 使用注册好的账号再次登录 [微信公众平台](http://github.com) 。
 2. 进入**开发管理**填写小程序信息
     ![开发管理](assets/images/info1.jpg)
-3. 进入 **用户身份** 添加紫荆云研发账号 **"focusdev"**。
+3. 点击**添加成员**。
     ![开发管理](assets/images/info2.jpg)
+3. 添加紫荆云研发账号 **"focusdev"** 并赋予所有权限。
     ![开发管理](assets/images/info3.jpg)
     ![开发管理](assets/images/info4.jpg)
 4. 将您的小程序邮箱账号及密码提供给紫荆云相关产品线负责人。
